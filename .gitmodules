@@ -1,0 +1,6 @@
+[submodule "identityresolution_backend"]
+	path = identityresolution_backend
+	url = https://github.com/mshemeel/identityresolution_backend.git
+[submodule "identityresolution_frontend"]
+	path = identityresolution_frontend
+	url = https://github.com/mshemeel/identityresolution_frontend.git
