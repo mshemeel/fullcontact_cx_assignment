@@ -56,3 +56,23 @@ As you work on the project feel free to make as many intermediate commits along 
 When you are ready to submit the project please make sure any generated files and dependencies that can be downloaded 
 using a simple command such as `npm install` / `gradlew build` / etc are first removed and then zip the project and 
 return it via email to the same hiring manager or recruiter that you originally received it from.
+
+
+/*****************************************************************************************************/
+
+## GIT commands :
+git clone https://github.com/mshemeel/fullcontact_cx_assignment.git
+cd cd fullcontact_cx_assignment
+git submodule init
+git submodule update
+
+or 
+
+git clone --recurse-submodules  https://github.com/mshemeel/fullcontact_cx_assignment.git
+
+/*****************************************************************************************************/
+
+To run the apps :
+Go to corresponding locations and run below commands
+##Backend-app : mvn spring-boot:run
+##Frontend-app : npm install -> npm start
