@@ -75,10 +75,10 @@ git clone --recurse-submodules  https://github.com/mshemeel/fullcontact_cx_assig
 
 /*****************************************************************************************************/
 
-To run the apps :
+## To run the apps :
 
 Go to corresponding locations and run below commands
 
-##Backend-app : mvn spring-boot:run
+## Backend-app : mvn spring-boot:run
 
-##Frontend-app : npm install -> npm start
+## Frontend-app : npm install -> npm start
